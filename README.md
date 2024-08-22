@@ -14,9 +14,9 @@
 </div><br/>
 <div style="display: inline_block">
   
-  <picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=romulodeyvid&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=romulodeyvid&include_all_commits=true&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -25,7 +25,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-  <img
-    height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodeyvid&layout=compact&theme=dracula"/>
+
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodeyvid&layout=compact&theme=dracula"/>
 
 </div>
