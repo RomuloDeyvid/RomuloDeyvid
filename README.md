@@ -1,5 +1,5 @@
 ## Saudações, eu sou o Rômulo Deyvid! 🖖 
-<img height="525" src="https://i.pinimg.com/originals/5c/6a/1f/5c6a1fb4595e4b55b8398780d8a51343.gif" >
+<img height="300" src="https://i.pinimg.com/originals/5c/6a/1f/5c6a1fb4595e4b55b8398780d8a51343.gif" >
 
 - 💻 Atuamente sou Desenvolvedor Front-End na Empresa JR, EJECT.
 - 📚 Estudando VueJS e Typescript
