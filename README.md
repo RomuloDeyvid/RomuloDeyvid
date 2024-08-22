@@ -1,4 +1,4 @@
-## Saudações, eu sou o Rômulo Deyvid! 🖖 <img src="https://media.tenor.com/UkvleU1dQK4AAAAj/2d-mario-running.gif" style="width:2px, height:20px">
+## Saudações, eu sou o Rômulo Deyvid! 🖖 <img src="https://i.pinimg.com/originals/5c/6a/1f/5c6a1fb4595e4b55b8398780d8a51343.gif" width:2px height:20px>
 
 - 💻 Atuamente sou Desenvolvedor Front-End na Empresa JR, EJECT.
 - 📚 Estudando VueJS e Typescript
