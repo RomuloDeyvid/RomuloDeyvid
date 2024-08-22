@@ -1,4 +1,4 @@
-## Saudações, eu sou o Rômulo Deyvid 🖖
+## Saudações, eu sou o Rômulo Deyvid! 🖖
 
 - 💻 Atuamente sou Desenvolvedor Front-End na Empresa JR, EJECT.
 - 📚 Estudando VueJS e Typescript
