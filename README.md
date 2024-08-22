@@ -1,5 +1,5 @@
 ## Saudações, eu sou o Rômulo Deyvid! 🖖 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/5c/6a/1f/5c6a1fb4595e4b55b8398780d8a51343.gif">
+<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/5c/6a/1f/5c6a1fb4595e4b55b8398780d8a51343.gif">
 
 <p > Sou um apaixonado por tecnologia e atualmente trabalho como Desenvolvedor Front-End na Empresa JR, EJECT. Minha jornada no mundo do desenvolvimento começou com um fascínio por como as coisas funcionam por trás das telas que todos usamos diariamente. Esse fascínio se transformou em uma carreira onde cada linha de código é uma oportunidade de criar algo novo e significativo.<p> No momento, estou aprofundando meus conhecimentos em VueJS e TypeScript, tecnologias que considero essenciais para construir interfaces de usuário modernas, eficientes e escaláveis. Gosto de me desafiar constantemente, aprendendo e implementando as melhores práticas para entregar soluções que fazem a diferença.</p>
 
