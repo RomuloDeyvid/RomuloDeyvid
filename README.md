@@ -1,4 +1,4 @@
-## Saudações, eu sou o Rômulo Deyvid! 🖖
+## Saudações, eu sou o Rômulo Deyvid! 🖖 <img src="https://media.tenor.com/UkvleU1dQK4AAAAj/2d-mario-running.gif" style="width:2px, height:20px">
 
 - 💻 Atuamente sou Desenvolvedor Front-End na Empresa JR, EJECT.
 - 📚 Estudando VueJS e Typescript
@@ -11,9 +11,11 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> -
   
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-</div><br/>
+</div>
+
+<br/>
+
 <div style="display: inline_block">
-  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=romulodeyvid&include_all_commits=true&show_icons=true&theme=dracula"
@@ -27,5 +29,5 @@
 </picture>
 
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodeyvid&layout=compact&theme=dracula"/>
-
 </div>
+
