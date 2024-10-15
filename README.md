@@ -24,3 +24,7 @@
   </picture>
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodeyvid&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
 </div>
+<div> 
+  <a href = "mailto: romulo.deyvid@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/romulodeyvid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
